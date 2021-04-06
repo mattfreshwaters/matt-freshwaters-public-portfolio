@@ -1,4 +1,4 @@
-*Click [here](www.google.com) to download the most recent `.pdf`*
+*Click [here](https://github.com/mattfreshwaters/matt-freshwaters-public-portfolio/blob/main/matt-freshwaters-public-portfolio.pdf) to download the most recent `.pdf`*
 
 ## Full Stack Engineer ##
 
