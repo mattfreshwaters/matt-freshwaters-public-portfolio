@@ -15,3 +15,14 @@
 * **LinkedIn:** https://www.linkedin.com/in/matthew-freshwaters/
 * **Website:** 
   * *Coming Soon*
+
+### Education ###
+
+* Pepperdine University (2016-2020)
+* Computer Science for Business Administration
+* Bachelor of Science (BS)
+
+### Summary ###
+
+My name is Matt Freshwaters and I am a recent college graduate working at Talent Path working as a full stack engineer.  Experience in writing full stack applications with SpringBoot, PostgreSQL, and using Angular or React on the front-end.  
+
