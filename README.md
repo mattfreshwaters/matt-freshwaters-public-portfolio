@@ -66,5 +66,9 @@ My name is Matt Freshwaters and I am a recent college graduate working at Talent
 
 ![Diversity Website photo](./assets/Diversity.png)
 
+---
 
+---
+
+# Experience #
 
