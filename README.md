@@ -12,7 +12,7 @@
 
 * **Phone:** `(650) 556-4021`
 * **Email:** ```mattfreshy@gmail.com```
-* **LinkedIn:** https://www.linkedin.com/in/matthew-freshwaters/
+* **LinkedIn:** [https://www.linkedin.com/in/matthew-freshwaters/](https://www.linkedin.com/in/matthew-freshwaters/)
 * **Website:** 
   * *Coming Soon*
 
