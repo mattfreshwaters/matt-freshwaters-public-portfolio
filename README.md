@@ -44,12 +44,24 @@ My name is Matt Freshwaters and I am a recent college graduate working at Talent
 
 
 
+## Contributor ## 
+
+### AirTnB ###
+
+* AirTnb is a web application built using the Spring framwork, MySQL, and displayed to the end user using Vue.  I developed several component for the application, as well as performing various code interviews throughout the project.
+* Using Spring Data JPA, I was able to write custom Java code that would query the data I wanted with ease.
+* Taking advantage of Vue lifecyle hooks, I was able to implement an efficient front-end that only updated certain components when strictly necessary; additionally, limiting the number of HTTP requests the application made yielded a much faster application.
+
+
+
+![Gif of AirTnB website](https://media.giphy.com/media/jtVuQknnWgigh0RZ3Z/giphy.gif)
+
 ## Contributor ##
 
 ### Shamazin ###
 
 * Shamazin is a web application built with Spring Boot, PostgreSQL, and React.  I developed the Questions & Answers component for the application, as well as perform various code reviews.
-* Our team used Github for Version Control and followed the Agile methodology to complete this project with weekly sprints, daily standup meetings, and weekly retrospectives.
+* Leveraging Github for Version Control and project management, our team followed the Agile methodology to complete this project with weekly sprints, daily standup meetings, and weekly retrospectives.
 * Below is a short clip showing some functionality of the website:
 
 ![Gif of Shamazin project](https://media.giphy.com/media/gH0xh2KSPxKC1mRQiR/giphy.gif)
